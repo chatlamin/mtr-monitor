@@ -2,7 +2,7 @@
 
 N_OF_PACKETS=5
 INTERVAL=10
-MTR_HOSTS=("8.8.8.8" "reddit.com")
+MTR_HOSTS=("8.8.8.8" "reddit.com" "77.88.8.8" "zencom.ru")
 INFLUXDB_HOST="influxdb"
 INFLUXDB_PORT=8086
 
