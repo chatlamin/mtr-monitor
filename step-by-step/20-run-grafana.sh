@@ -1,4 +1,5 @@
 #!/bin/bash
+
 ID=$(id -u)
 
 docker run \

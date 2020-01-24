@@ -1,7 +1,6 @@
 #!/bin/bash
 
 mkdir -p /home/docker/containers/mtr-monitor/
-
 cd ../
 cp ./mtr-monitor/mtr-monitor.sh /home/docker/containers/mtr-monitor/
 cp ./mtr-monitor/save_data.py /home/docker/containers/mtr-monitor/
