@@ -13,7 +13,6 @@ db_name = 'mtr'
 user = 'root'
 password = 'root'
 
-
 class HubEntry(SeriesHelper):
     class Meta:
         series_name = '{destination}'
